@@ -1,104 +1,38 @@
-# KSign Security Lab
+# KSign Security Lab  
+🧪 기술로 신뢰를 보호 / Protecting Trust Through Technology  
 
-## 🧪 기술로 신뢰를 보호  
-차세대 암호기술과 보안 연구를 통해 디지털 신뢰의 기반을 설계합니다.
-
----
-
-## 🧭 소개
-KSign Security Lab은 **암호 기술 기반 보안 연구를 중심으로 하는 오픈소스 연구 조직**입니다.  
-우리는 이론과 실무를 연결하여, 실제 환경에서 활용 가능한 보안 기술을 설계하고 구현합니다.
+암호기술 기반 보안 연구로 디지털 신뢰를 설계합니다.  
+Building digital trust through cryptography-driven security research.
 
 ---
 
-## 🎯 비전
-- Post-Quantum 시대를 대비한 차세대 암호 기술 연구  
-- 코드 수준에서의 보안 분석 자동화  
-- 보안 데이터를 AI 친화적 구조로 변환하여 새로운 분석 패러다임 구축  
+**🧭 소개 / About**  
+암호 기술 중심 오픈소스 보안 연구 조직으로, 이론과 실무를 연결해 실제 환경에서 동작하는 시스템을 설계합니다.  
+An open-source research lab focused on cryptography, bridging theory and real-world systems.
 
 ---
 
-## 🧩 핵심 기술 영역
-- **PKI / Cryptography**
-- **Post-Quantum Cryptography (PQC)**
-- **Reverse Engineering & Vulnerability Research**
+**🎯 비전 / Vision**  
+- Post-Quantum 암호 기술 연구 / Advancing post-quantum cryptography  
+- 코드 수준 보안 분석 자동화 / Automating code-level security analysis  
+- AI 친화적 보안 데이터 구조 구축 / Building AI-ready security data structures  
 
 ---
 
-## 🚀 주요 프로젝트
-
-### 🔹 Static Software Analysis Tool
-자연어 기반 소스코드를 분석하여  
-AI 모델이 활용 가능한 **그래프 구조 데이터로 변환하는 정적 분석 프레임워크**
-
-### 🔹 BAS Platform
-공격 표면 데이터베이스를 기반으로 한  
-웹 기반 **Breach and Attack Simulation 플랫폼**
-
-### 🔹 OCPP Fuzzer
-전기차 충전 프로토콜(OCPP)의 보안 취약점 탐지를 위한  
-**프로토콜 퍼징 프레임워크**
+**🧩 핵심 기술 / Core**  
+- PKI / Cryptography / PKI 및 암호 기술  
+- Post-Quantum Cryptography (PQC) / 양자내성암호  
+- Reverse Engineering & Vulnerability Research / 리버싱 및 취약점 연구  
 
 ---
 
-## 🤝 협업 및 문의
-- Research collaboration
-- Open-source contribution
-- Security research partnership
-
-📫 Contact: securitylab@ksign.com *(placeholder)*
+**🚀 프로젝트 / Projects**  
+- **Static Software Analysis Tool**: 자연어 코드를 AI 그래프로 변환하여 취약점 탐지 용이성 향상 / Transforms natural language code into AI-ready graphs for improved vulnerability detection  
+- **Secure EV Charger**: Web 기반 BAS + EV 퍼저(OCPP/ISO-15118) + 공격 표면 DB 플랫폼 / Web-based BAS + EV Fuzzer (OCPP/ISO-15118) + attack surface database platform  
+- **OCPP Fuzzer**: EV 충전 프로토콜 퍼징 핵심 모듈 / Core module for OCPP protocol fuzzing  
 
 ---
 
----
-
-# KSign Security Lab
-
-## 🧪 Protecting Trust Through Technology  
-Building the foundation of digital trust through next-generation security research.
-
----
-
-## 🧭 About
-KSign Security Lab is an **open-source research initiative focused on cryptography-driven security technologies**.  
-We bridge theory and practice to design and implement security systems that work in real-world environments.
-
----
-
-## 🎯 Vision
-- Advancing post-quantum cryptographic systems  
-- Automating security analysis at the code level  
-- Transforming security data into AI-ready structures  
-
----
-
-## 🧩 Core Domains
-- **PKI / Cryptography**
-- **Post-Quantum Cryptography (PQC)**
-- **Reverse Engineering & Vulnerability Research**
-
----
-
-## 🚀 Key Projects
-
-### 🔹 Static Software Analysis Tool
-A static analysis framework that transforms  
-natural language source code into **AI-friendly graph representations**
-
-### 🔹 BAS Platform
-A web-based **Breach and Attack Simulation platform**  
-powered by an attack surface database
-
-### 🔹 OCPP Fuzzer
-A **protocol fuzzing framework** designed to identify vulnerabilities  
-in EV charging communication (OCPP)
-
----
-
-## 🤝 Collaboration
-We welcome:
-- Developers  
-- Security researchers  
-- Open-source contributors  
-
-📫 Contact: securitylab@ksign.com *(placeholder)*
+**🤝 협업 / Collaboration**  
+연구 협력 · 오픈소스 기여 · 보안 파트너십 / Research · Open-source · Security partnership  
+📫 k-secu@ksign.com
