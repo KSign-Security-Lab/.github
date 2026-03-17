@@ -6,20 +6,10 @@ Building digital trust through cryptography-driven security research.
 
 ---
 
-**🧭 소개 / About**  
-암호 기술 중심 오픈소스 보안 연구 조직으로, 이론과 실무를 연결해 실제 환경에서 동작하는 시스템을 설계합니다.  
-An open-source research lab focused on cryptography, bridging theory and real-world systems.
-
----
-
-**🎯 비전 / Vision**  
+**🎯 비전 및 핵심 기술 / Vision and Core**  
 - Post-Quantum 암호 기술 연구 / Advancing post-quantum cryptography  
 - 코드 수준 보안 분석 자동화 / Automating code-level security analysis  
 - AI 친화적 보안 데이터 구조 구축 / Building AI-ready security data structures  
-
----
-
-**🧩 핵심 기술 / Core**  
 - PKI / Cryptography / PKI 및 암호 기술  
 - Post-Quantum Cryptography (PQC) / 양자내성암호  
 - Reverse Engineering & Vulnerability Research / 리버싱 및 취약점 연구  
