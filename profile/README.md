@@ -30,6 +30,7 @@ An open-source research lab focused on cryptography, bridging theory and real-wo
 - **Static Software Analysis Tool**: 자연어 코드를 AI 그래프로 변환하여 취약점 탐지 용이성 향상 / Transforms natural language code into AI-ready graphs for improved vulnerability detection  
 - **Secure EV Charger**: Web 기반 BAS + EV 퍼저(OCPP/ISO-15118) + 공격 표면 DB 플랫폼 / Web-based BAS + EV Fuzzer (OCPP/ISO-15118) + attack surface database platform  
 - **OCPP Fuzzer**: EV 충전 프로토콜 퍼징 핵심 모듈 / Core module for OCPP protocol fuzzing  
+- **ISO15118 Fuzzer**: EV 충전 프로토콜 퍼징 핵심 모듈 / Core module for ISO15118 protocol fuzzing
 
 ---
 
