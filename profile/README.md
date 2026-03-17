@@ -22,14 +22,8 @@ Building digital trust through cryptography-driven security research.
   - Transforms natural language code into AI-ready graphs for improved vulnerability detection  
 - **Secure EV Charger**:
   - Web 기반 BAS + EV 퍼저(OCPP/ISO-15118) + 공격 표면 DB 플랫폼
-  - Web-based BAS + EV Fuzzer (OCPP/ISO-15118) + attack surface database platform  
-- **OCPP Fuzzer**:
-  - EV 충전 프로토콜 퍼징 핵심 모듈
-  - Core module for OCPP protocol fuzzing
-- **ISO15118 Fuzzer**:
-  - EV 충전 프로토콜 퍼징 핵심 모듈
-  - Core module for ISO15118 protocol fuzzing
-
+  - Web-based BAS + EV Fuzzer (OCPP/ISO-15118) + attack surface database platform
+  
 ---
 
 **🤝 협업 / Collaboration**  
